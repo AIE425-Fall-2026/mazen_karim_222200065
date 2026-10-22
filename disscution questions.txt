@@ -1,0 +1,11 @@
+Q1-the uniform matrix
+
+Q2-no because we apply the same mask to all matricies
+
+Q3-3 because i made the range 1-5 and its normally distributed so the most is in the middle
+
+Q4-in  my code each user rated 5 randomly selected items The original users have ratings for 50 out of the original 100 items with no ratings for the 20 new items
+So a new user shares 2.08 rated items with an old user, 
+No If two users have no co-rated items there are no common rating values from which to construct their rating vectors for comparison Their cosine similarity is therefore undefined not zero
+
+Q5-It solves the new-user cold-start problem
